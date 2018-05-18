@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40838" started-at="2018-05-17T11:58:33Z" finished-at="2018-05-17T11:59:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40838" started-at="2018-05-17T11:58:33Z" finished-at="2018-05-17T11:59:14Z">
+      <class name="org.SeleniumAdvance.ActionsTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.SeleniumAdvance.ActionsTest@548e7350]" name="beforeTest" is-config="true" duration-ms="14297" started-at="2018-05-17T17:28:33Z" finished-at="2018-05-17T17:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:org.SeleniumAdvance.ActionsTest@548e7350]" name="f" duration-ms="1451" started-at="2018-05-17T17:28:47Z" finished-at="2018-05-17T17:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="Categories()[pri:1, instance:org.SeleniumAdvance.ActionsTest@548e7350]" name="Categories" duration-ms="25057" started-at="2018-05-17T17:28:49Z" finished-at="2018-05-17T17:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Categories -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.SeleniumAdvance.ActionsTest@548e7350]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-05-17T17:29:14Z" finished-at="2018-05-17T17:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.SeleniumAdvance.ActionsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
